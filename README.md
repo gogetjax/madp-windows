@@ -1,5 +1,5 @@
 # madp-windows - StarCraft Broodwar Artificial Intelligence Multi-Agent Implementation
-# Christopher Jackson (lmoxiel)
+# Christopher Jackson (@gogetjax)
 #
 We implement the Joint Equlibrium-based Search for Policy (JESP) algorithm in StarCraft using the Broodwar API and compare it to a brute-force approach. (See "References" slide for links).
 
